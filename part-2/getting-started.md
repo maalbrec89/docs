@@ -29,6 +29,10 @@ Excel® is a registered trademark of Microsoft Inc., Redmond, USA; R is a produc
 To correctly install the software, administrator rights are necessary. If you do not have these rights, your IT-administrator should carry out the installation.
 {% endhint %}
 
+{% hint style="warning" %}
+To avoid problems with the project export function, you may deinstall your MikTex installation before. The OSPS installation will install a new MikTex version.
+{% endhint %}
+
 {% hint style="info" %}
 The modular structure of the Open Systems Pharmacology Suite is explained in [Modules, Philosophy, and Building Blocks](modules-philsophy-building-blocks.md). Both PK-Sim® and MoBi® can be installed stand-alone. However, to obtain full modeling and simulation capabilities, we recommend that both programs are installed.
 {% endhint %}
